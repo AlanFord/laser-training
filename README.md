@@ -6,4 +6,4 @@ The three "Using ..." files are step-by-step instructions for
 2. Using CamBam to process the DXF file to create g-code for use with the laser cutter  
 3. Operating the laser cutter by loading and running the g-code file  
 
-There is an "image" directory with images destined to be incorporated into the "overview".
+There is an "images" directory with images destined to be incorporated into the "overview".
